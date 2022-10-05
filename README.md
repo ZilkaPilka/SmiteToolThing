@@ -1,0 +1,2 @@
+# SmiteToolThing
+Hello! I'm currently creating a personal project for my favorite game Smite! this ia currently a huge draft! I am learning HTML and CSS. I am also learning JavaScript! I look forward to seeing how this goes. Basically I want to create a tool that counts objective and possibly in advanced item and ability cooldowns! Also I want to create something that is similar to Porofessor software in league!
